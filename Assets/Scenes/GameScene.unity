@@ -2624,8 +2624,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6580a44840d258f49a5f42ffb8a0e479, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerScoreText: {fileID: 0}
-  playerWinText: {fileID: 0}
+  playerScoreText: {fileID: 1464800490}
+  playerWinText: {fileID: 1954900908}
   pointsToWin: 7
   GameOverScreen: {fileID: 654483602}
   scoreSound: {fileID: 1991202403}
