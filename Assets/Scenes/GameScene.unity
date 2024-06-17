@@ -189,8 +189,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281518304
-  m_fontColor: {r: 0.8784314, g: 0.78431374, b: 0.19607843, a: 1}
+    rgba: 4290430783
+  m_fontColor: {r: 0.24613024, g: 0.78113204, b: 0.7313329, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1589,8 +1589,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281518304
-  m_fontColor: {r: 0.8792453, g: 0.78290427, b: 0.19741535, a: 1}
+    rgba: 4290430784
+  m_fontColor: {r: 0.2509804, g: 0.7803922, b: 0.7294118, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
