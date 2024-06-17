@@ -182,8 +182,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Player 1
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9e4e75fb1000c0548b132c222db7aa84, type: 2}
-  m_sharedMaterial: {fileID: -8409331845089575622, guid: 9e4e75fb1000c0548b132c222db7aa84, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 34ca930ebe2375d409d838b72a44cd02, type: 2}
+  m_sharedMaterial: {fileID: 270407641462960460, guid: 34ca930ebe2375d409d838b72a44cd02, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -369,7 +369,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &139836032
@@ -931,7 +931,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &360504555
@@ -1282,7 +1282,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &815500305
@@ -1538,8 +1538,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Player 2
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9e4e75fb1000c0548b132c222db7aa84, type: 2}
-  m_sharedMaterial: {fileID: -8409331845089575622, guid: 9e4e75fb1000c0548b132c222db7aa84, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 34ca930ebe2375d409d838b72a44cd02, type: 2}
+  m_sharedMaterial: {fileID: 270407641462960460, guid: 34ca930ebe2375d409d838b72a44cd02, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2241,7 +2241,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1564881396
